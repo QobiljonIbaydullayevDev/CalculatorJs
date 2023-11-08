@@ -11,16 +11,12 @@
     align-items: center;
 }
 #increase{
-    background: #858b93;
     height: 140px;
     position: absolute;
     top: 32rem;
-    color: #33ffd8;
 }
 #equal{
-    background: #858b93;
     width: 145px;
-    color: #33ffd8;
 }
 
 #display{
@@ -56,7 +52,7 @@ form .display input{
     flex: 1;
     font-size: 45px;
 }
- #operator{
+.operator{
     color: #33ffd8;
     background: #858b93;
 }
